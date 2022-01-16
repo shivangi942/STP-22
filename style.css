@@ -19,6 +19,7 @@ header{
 .container {
     display: flex;
     flex-wrap: wrap;
+    margin: auto;
 }
 
 .translators {
@@ -87,5 +88,6 @@ a{
     font-weight: bolder;
     background-image: linear-gradient(to right,#170055, #D1E8E4);
     box-shadow: 1px 2px 3px black;
+    font-size: 1.5rem;
 }
 
