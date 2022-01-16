@@ -1,0 +1,3 @@
+Minion :-    https://api.funtranslations.com/translate/minion.json
+Yoda :-  https://api.funtranslations.com/translate/yoda.json
+Pirate:- https://api.funtranslations.com/translate/pirate.json
