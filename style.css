@@ -10,6 +10,7 @@ body {
     text-align: center;
     font-size: 5rem;
     padding: 1rem;
+    margin-bottom: 4rem;
 }
 
 header{
@@ -17,15 +18,21 @@ header{
 }
 
 .container {
+    margin: auto;
+    width: 80vw;
     display: flex;
     flex-wrap: wrap;
-    margin: auto;
+    text-align: center;
+    align-items: center;    
+    justify-content: space-between;
 }
 
+
 .translators {
-    margin: 2rem 8rem;
+    margin: auto;
+    margin-bottom: 6rem;
     border: 1px transparent black;
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 0.5rem;
     box-shadow: 10px 10px 20px 3px black;
 }
